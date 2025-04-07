@@ -8,8 +8,7 @@ primary studies expanded AD’s definition, uncovered its implicit presence, ide
 ## **Repository Structure**
 Sample python scripts are provided which highlights the various notebooks created in Python.
 ```
-├── dataset/                      # Folder containing the dataset
-   └── liu_datset_processed.csv   # Dataset filenotebooks/                       
+                      
 ├── Questionniare Questuions.pdf  # Questionniare sample
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
