@@ -14,7 +14,7 @@ Sample python scripts are provided which highlights the various notebooks create
 ├── Interview Questions.pdf       # Interview Questions
 ├── Pis.pdf                       # Participant information sheet
 ├── Email invitaion.pdf           # Email invitation ti participants
-
+```
 
 
 
@@ -24,7 +24,7 @@ If you use this repository or its results, please cite the research as follows:
 
 ```plaintext
 Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Causes, and Future Directions" 2024. [Online]. Available: https://arxiv.org/pdf/XXX```
-
+```
 ---
 
 ## **Contact**
