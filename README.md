@@ -9,10 +9,10 @@ primary studies expanded AD’s definition, uncovered its implicit presence, ide
 Sample python scripts are provided which highlights the various notebooks created in Python.
 ```
                       
-├── Questionniare Questuions.pdf  # Questionniare sample
-├── Interview Questions.pdf       # Interview Questions
-├── Pis.pdf                       # Participant information sheet
-├── Email invitaion.pdf           # Email invitation ti participants
+├── Descriotion of control papers.pdf      # Control papers 
+├── List of primary studies.pdf            # List of papers
+├── SATD comments and categorisation.pdf   # Participant information sheet
+
 ```
 
 
@@ -22,7 +22,7 @@ Sample python scripts are provided which highlights the various notebooks create
 If you use this repository or its results, please cite the research as follows:
 
 ```plaintext
-Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Causes, and Future Directions" 2024. [Online]. Available: https://arxiv.org/pdf/XXX```
+Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Directions" 2025. [Online]. Available: https://arxiv.org/pdf/XXX```
 ```
 ---
 
@@ -36,4 +36,4 @@ For questions, feedback, or support, please contact:
 
 ## **Acknowledgments**
 
-This repository was developed as part of the research on Algorithm Debt in Machine and Deep Learning: Insights from a Mixed-Methods Study of Practitioners. Special thanks to the paarticipants who volunteered to be be interviewed and those who also completed the the questionniare for their insigths.
+This repository was developed as part of the research on A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Directions.
