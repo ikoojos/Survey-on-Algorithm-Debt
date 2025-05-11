@@ -11,7 +11,7 @@ Sample python scripts are provided which highlights the various notebooks create
                       
 ├── Description of control papers.pdf      # Control papers 
 ├── List of primary studies.pdf            # List of papers
-├── SATD comments and categorisation.pdf   # Participant information sheet
+├── SATD comments and categorisation.pdf   # categorisation of SATD comments
 
 ```
 
