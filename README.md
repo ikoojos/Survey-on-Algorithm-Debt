@@ -6,7 +6,8 @@ primary studies expanded AD's definition, uncovered its implicit presence, ident
 
 
 ## **Repository Structure**
-Sample python scripts are provided which highlights the various notebooks created in Python.
+[To access these files you can alternatively view them on Google Drive](https://drive.google.com/drive/folders/1zm2a8NcUQtpYcOsnqklqwmhWykJHRcbz?usp=sharing)
+
 ```
                       
 ├── Description of control papers.pdf      # Control papers 
