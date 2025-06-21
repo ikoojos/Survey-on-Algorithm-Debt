@@ -6,7 +6,7 @@ primary studies expanded AD's definition, uncovered its implicit presence, ident
 
 
 ## **Repository Structure**
-[To access these files you can alternatively view them on Google Drive](https://drive.google.com/drive/folders/1zm2a8NcUQtpYcOsnqklqwmhWykJHRcbz?usp=sharing)
+[To access these files you can view them on Google Drive](https://drive.google.com/drive/folders/1zm2a8NcUQtpYcOsnqklqwmhWykJHRcbz?usp=sharing)
 
 ```
                       
