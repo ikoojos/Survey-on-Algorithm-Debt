@@ -1,8 +1,7 @@
 
-# **A Syetematic Literature Review of Algorithm Debt in Machine and Deep Learning Systems: Definition, Causes, and Future Directions**
+# **A Systematic Literature Review of Algorithm Debt in Machine and Deep Learning Systems: Definition, Causes, and Future Directions**
 
-The adoption of Machine and Deep Learning (ML/DL) technologies introduces maintenance challenges, leading to Technical Debt (TD). Algorithm Debt (AD) is a TD type that impacts the performance and maintainability of ML/DL systems. A review of 44
-primary studies expanded AD's definition, uncovered its implicit presence, identified its smells, and highlighted future directions. These results serve as a first step for researchers towards an AD-focused research, enhancing the reliability of ML/DL systems.
+The adoption of Machine and Deep Learning (ML/DL) technologies introduces maintenance challenges, leading to Technical Debt (TD). Algorithm Debt (AD) is a TD type that impacts the performance and maintainability of ML/DL systems. A review of 44 primary studies expanded AD's definition, uncovered its implicit presence, identified its smells, and highlighted future directions. These results serve as a first step for researchers towards an AD-focused research, enhancing the reliability of ML/DL systems.
 
 
 ## Repository Structure
