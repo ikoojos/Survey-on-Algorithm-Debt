@@ -13,10 +13,26 @@ primary studies expanded AD's definition, uncovered its implicit presence, ident
 ├── Description of control papers.pdf      # Control papers 
 ├── List of primary studies.pdf            # List of papers
 ├── SATD comments and categorisation.pdf   # categorisation of SATD comments
+├── Data_Extraction_result.xlxs            # Data extraction file
+
+
 
 ```
 
 
+## Repository Contents
+
+This repository contains supplementary materials and data files supporting the thesis research.
+
+| File | Description |
+|------|--------------|
+| **Description of control papers.pdf** | Provides details of the control papers used for validation, including selection rationale and relevance to the study. |
+| **List of primary studies.pdf** | Contains the full list of primary research papers included in the systematic review, along with identifiers and references. |
+| **SATD comments and categorisation.pdf** | Documents the categorisation of Self-Admitted Technical Debt (SATD) comments, including classification criteria and representative examples. |
+| **Data_Extraction_result.xlsx** | Compiles extracted data from the selected studies, including key variables, metrics, and coded attributes used in the analysis. |
+
+
+```
 
 ## **Citation**
 
