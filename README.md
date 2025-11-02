@@ -33,15 +33,14 @@ This repository contains supplementary materials and data files supporting the t
 
 
 ```
-
+```
 ## Citation
 
 If you use this repository or its results, please cite the research as follows:
 
+Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Directions" 2025.
 ```
-Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Survey of Algorithm Debt in Machine and Deep Learning Systems: Definition, Smells, and Future Directions" 2025.```
 ```
----
 
 ## Contact
 
