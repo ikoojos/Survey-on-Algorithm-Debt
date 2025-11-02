@@ -5,7 +5,7 @@ The adoption of Machine and Deep Learning (ML/DL) technologies introduces mainte
 primary studies expanded AD's definition, uncovered its implicit presence, identified its smells, and highlighted future directions. These results serve as a first step for researchers towards an AD-focused research, enhancing the reliability of ML/DL systems.
 
 
-## **Repository Structure**
+## Repository Structure
 [To access these files you can view them on Google Drive](https://drive.google.com/drive/folders/1zm2a8NcUQtpYcOsnqklqwmhWykJHRcbz?usp=sharing)
 
 ```
@@ -34,7 +34,7 @@ This repository contains supplementary materials and data files supporting the t
 
 ```
 
-## **Citation**
+## Citation
 
 If you use this repository or its results, please cite the research as follows:
 
@@ -43,11 +43,9 @@ Simon, E.I.O., Hettiarachchi, C., Fard, F., Potanin, A., and Suominen, H., "A Su
 ```
 ---
 
-## **Contact**
+## Contact
 
-For questions, feedback, or support, please contact:
-
-- Iko-Ojo on emmanuel.simon@anu.edu.au
+For questions, feedback, or support, please contact: Iko-Ojo on emmanuel.simon@anu.edu.au
 
 ---
 
